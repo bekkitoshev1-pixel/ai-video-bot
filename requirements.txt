@@ -1,1 +1,0 @@
-python-telegram-bot==21.6\nPillow>=10.0.0\nimageio-ffmpeg>=0.5.1\nedge-tts>=7.0.0\n
